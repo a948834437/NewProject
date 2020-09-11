@@ -2,5 +2,7 @@
 int main()
 {
   printf("hello!");
+  printf("I'm Licanghao!");
+  printf("hedalao nb!\n");
   return 0;
 }
